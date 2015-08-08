@@ -1,0 +1,4 @@
+name: AutoIgnite
+main: org.catsih.autoignite.Main
+version: 1.0.0
+description: Small plugin to auto-ignite TNT when placed.
